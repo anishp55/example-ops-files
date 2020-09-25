@@ -1,1 +1,1 @@
-# example-ops-files
+om-az configure-product -c cf.yml -o disable-enable-errands.yml -o scale-cells.yml -o scale-router.yml
